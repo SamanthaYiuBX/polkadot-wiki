@@ -30,6 +30,7 @@ growing needs without the risks of network forks.
 By connecting these dots, Polkadot serves as a foundational part of a decentralized web, where users
 control their data and are not limited by trust bounds within the network.
 
+###JUST testing, you guys can disapprove this one
 ### Interact with Polkadot
 
 <tr class="cards-container">
